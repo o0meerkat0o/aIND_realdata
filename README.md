@@ -1,4 +1,4 @@
-# aIND on real channel flow (CoMSAIL, informal)
+# aIND on real channel flow
 
 Applies aIND (Arranz & Lozano-Durán, JFM 2024; code: https://github.com/Computational-Turbulence-Group/aIND) to the UPC Re_tau = 180 channel flow DNS (figshare DOI 10.25452/figshare.plus.30636068).
 
